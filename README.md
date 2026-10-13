@@ -7,6 +7,3 @@ Simple CRUD Web Application
 - Spring Security
 - MySQL
 - AngularJS(1.5)
-
-Demo 
-https://www.youtube.com/watch?v=FbiJzyfKUJU&t=9s
